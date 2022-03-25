@@ -1,5 +1,9 @@
 # Recent Advances in Multi Agent Reinforcement Learning (MARL)
-A collection of recent MARL papers with their codes and talks (if available).
+This is a collection of recent MARL papers with their codes and talks (if available). The collection will be actively updated in the next few months.
+
+Maintainer: [Yaru Niu](https://www.yaruniu.com/)
+
+Email: chrisyrniu@gmail.com
 
 ## Hierarchical MARL
 * Promoting Coordination through Policy Regularization in Multi-Agent Deep Reinforcement Learning. NeurIPS 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/b628386c9b92481fab68fbf284bd6a64-Paper.pdf)][[talk](https://slideslive.com/38936234/)][[website](https://sites.google.com/view/marl-coordination/)]
