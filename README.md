@@ -11,10 +11,10 @@ Email: chrisyrniu@gmail.com
 * OPtions as REsponses: Grounding Behavioural Hierarchies in Multi-Agent Reinforcement Learning. ICML 2020. [[paper](https://arxiv.org/pdf/1906.01470.pdf)][[talk](https://slideslive.com/38927700)]
 * MAVEN: Multi-Agent Variational Exploration. NeurIPS 2019. [[paper](https://arxiv.org/pdf/1910.07483.pdf)][[code](https://github.com/AnujMahajanOxf/MAVEN)]
 * Feudal Multi-Agent Deep Reinforcement Learning for Traffic Signal Control. AAMAS 2020. [[paper](http://staff.ustc.edu.cn/~wufeng02/doc/pdf/MWaamas20.pdf)][[relevant code](https://github.com/cts198859/deeprl_signal_control)]
-* Hierarchical Cooperative Multi-Agent Reinforcement Learningwith Skill Discovery. AAMAS 2020. [[paper](https://arxiv.org/pdf/1912.03558.pdf)][[code](https://github.com/011235813/hierarchical-marl)]
-* Coach-Player Multi-Agent Reinforcement Learningfor Dynamic Team Composition. ICML 2021. [[paper](https://arxiv.org/pdf/2105.08692.pdf)][[code](https://github.com/Cranial-XIX/marl-copa)][[talk](https://slideslive.com/38958626)]
+* Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery. AAMAS 2020. [[paper](https://arxiv.org/pdf/1912.03558.pdf)][[code](https://github.com/011235813/hierarchical-marl)]
+* Coach-Player Multi-Agent Reinforcement Learning for Dynamic Team Composition. ICML 2021. [[paper](https://arxiv.org/pdf/2105.08692.pdf)][[code](https://github.com/Cranial-XIX/marl-copa)][[talk](https://slideslive.com/38958626)]
 * Feudal Multi-Agent Hierarchiesfor Cooperative Reinforcement Learning. arXiv 2019. [[paper](https://arxiv.org/pdf/1901.08492.pdf)][[talk](https://skillsmatter.com/skillscasts/13903-feudal-multi-agent-hierarchies-for-cooperative-reinforcement-learning)]
-* Hierarchical Deep Multiagent ReinforcementLearning with Temporal Abstraction. arXiv 2019. [[paper](https://arxiv.org/pdf/1809.09332.pdf)]
+* Hierarchical Deep Multiagent Reinforcement Learning with Temporal Abstraction. arXiv 2019. [[paper](https://arxiv.org/pdf/1809.09332.pdf)]
 * [not MARL] Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation. NIPS 2016. [[paper](https://arxiv.org/pdf/1604.06057.pdf)][[code](https://github.com/mrkulk/hierarchical-deep-RL)][[talk](https://youtu.be/tyRUql_ZR7Q)]
 
 ## Role Learning
