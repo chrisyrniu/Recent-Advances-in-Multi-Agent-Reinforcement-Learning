@@ -14,6 +14,7 @@ Email: chrisyrniu@gmail.com
 * Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery. AAMAS 2020. [[paper](https://arxiv.org/pdf/1912.03558.pdf)][[code](https://github.com/011235813/hierarchical-marl)]
 * Coach-Player Multi-Agent Reinforcement Learning for Dynamic Team Composition. ICML 2021. [[paper](https://arxiv.org/pdf/2105.08692.pdf)][[code](https://github.com/Cranial-XIX/marl-copa)][[talk](https://slideslive.com/38958626)]
 * Feudal Multi-Agent Hierarchiesfor Cooperative Reinforcement Learning. arXiv 2019. [[paper](https://arxiv.org/pdf/1901.08492.pdf)][[talk](https://skillsmatter.com/skillscasts/13903-feudal-multi-agent-hierarchies-for-cooperative-reinforcement-learning)]
+* Option-Critic in Cooperative Multi-Agent Systems. arXiv 2020 (abridged as an extended abstract in AAMAS 2020). [[paper](https://arxiv.org/pdf/1911.12825.pdf)][[extented abstract](https://ifaamas.org/Proceedings/aamas2020/pdfs/p1792.pdf)]
 * Hierarchical Deep Multiagent Reinforcement Learning with Temporal Abstraction. arXiv 2019. [[paper](https://arxiv.org/pdf/1809.09332.pdf)]
 * [not MARL] Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation. NIPS 2016. [[paper](https://arxiv.org/pdf/1604.06057.pdf)][[code](https://github.com/mrkulk/hierarchical-deep-RL)][[talk](https://youtu.be/tyRUql_ZR7Q)]
 
