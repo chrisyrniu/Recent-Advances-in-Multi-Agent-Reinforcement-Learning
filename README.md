@@ -1,4 +1,4 @@
-# Recent Advances in Multi Agent Reinforcement Learning (MARL)
+# Recent Advances in Multi-Agent Reinforcement Learning (MARL)
 This is a collection of recent MARL papers with their codes and talks (if available). The collection will be actively updated in the next few months.
 
 Maintainer: [Yaru Niu](https://www.yaruniu.com/)
