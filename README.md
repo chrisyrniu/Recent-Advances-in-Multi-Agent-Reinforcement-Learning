@@ -24,3 +24,10 @@ Email: chrisyrniu@gmail.com
 
 ## Communication-Based
 * Multi-Agent Graph-Attention Communication and Teaming. AAMAS 2021 (Best Paper Award at [MAIR2@ICCV'21](https://www.mair2.com/accepted-papers)). [[paper](https://chrisyrniu.github.io/files/aamas_2021_with_sup.pdf)][[paper (MAIR2)](https://chrisyrniu.github.io/files/magic_mair2_final.pdf)][[code](https://github.com/CORE-Robotics-Lab/MAGIC)][[talk](https://slideslive.com/38954819)][[talk (MAIR2)](https://youtu.be/g9sQyOjjoFY)]
+* TarMAC: Targeted Multi-Agent Communication. ICML 2019. [[paper](https://arxiv.org/pdf/1810.11187.pdf)][[talk](https://slideslive.com/38917625)]
+* Learning to Schedule Communication in Multi-agent Reinforcement Learning. ICLR 2019. [[paper](https://arxiv.org/pdf/1902.01554.pdf)][[code](https://github.com/rhoowd/sched_net)]
+
+## Ad-Hoc Teaming
+* Coach-Player Multi-Agent Reinforcement Learning for Dynamic Team Composition. ICML 2021. [[paper](https://arxiv.org/pdf/2105.08692.pdf)][[code](https://github.com/Cranial-XIX/marl-copa)][[talk](https://slideslive.com/38958626)]
+* Multi-Agent Collaboration via Reward Attribution Decomposition. arXiv 2020. [[paper](https://arxiv.org/pdf/2010.08531.pdf)][[code](https://github.com/facebookresearch/CollaQ)][[website](https://sites.google.com/view/multi-agent-collaq-public)]
+* Online Ad Hoc Teamwork under Partial Observability. ICLR 2022. [[paper](https://openreview.net/pdf?id=18Ys0-PzyPI)]
