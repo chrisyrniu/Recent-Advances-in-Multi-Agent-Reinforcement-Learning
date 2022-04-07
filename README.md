@@ -32,6 +32,7 @@ Email: chrisyrniu@gmail.com
 * Coach-Player Multi-Agent Reinforcement Learning for Dynamic Team Composition. ICML 2021. [[paper](https://arxiv.org/pdf/2105.08692.pdf)][[code](https://github.com/Cranial-XIX/marl-copa)][[talk](https://slideslive.com/38958626)]
 * Multi-Agent Collaboration via Reward Attribution Decomposition. arXiv 2020. [[paper](https://arxiv.org/pdf/2010.08531.pdf)][[code](https://github.com/facebookresearch/CollaQ)][[website](https://sites.google.com/view/multi-agent-collaq-public)]
 * Online Ad Hoc Teamwork under Partial Observability. ICLR 2022. [[paper](https://openreview.net/pdf?id=18Ys0-PzyPI)]
+* Open Ad Hoc Teamwork using Graph-based Policy Learning. ICML 2021. [[paper](https://arxiv.org/pdf/2006.10412.pdf)][[code](https://github.com/uoe-agents/GPL)][[talk](https://slideslive.com/38959695)]
 
 ## Multi-Task and Transfer Learning
 * NerveNet: Learning Structured Policy with Graph Neural Networks. ICLR 2018. [[paper](https://openreview.net/pdf?id=S1sqHMZCb)][[code](https://github.com/WilsonWangTHU/NerveNet)][[website](http://www.cs.toronto.edu/~tingwuwang/nervenet.html)][[video](https://youtu.be/ImSlirW1EI8)]
