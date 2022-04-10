@@ -18,6 +18,7 @@ Email: chrisyrniu@gmail.com
 * Option-Critic in Cooperative Multi-Agent Systems. arXiv 2020 (abridged as an extended abstract in AAMAS 2020). [[paper](https://arxiv.org/pdf/1911.12825.pdf)][[extented abstract](https://ifaamas.org/Proceedings/aamas2020/pdfs/p1792.pdf)]
 * Hierarchical Deep Multiagent Reinforcement Learning with Temporal Abstraction. arXiv 2019. [[paper](https://arxiv.org/pdf/1809.09332.pdf)]
 * [not MARL] Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation. NIPS 2016. [[paper](https://arxiv.org/pdf/1604.06057.pdf)][[code](https://github.com/mrkulk/hierarchical-deep-RL)][[talk](https://youtu.be/tyRUql_ZR7Q)]
+* Credit Assignment with Meta-Policy Gradient for Multi-Agent Reinforcement Learning. arXiv 2021. [[paper](https://arxiv.org/pdf/2102.12957.pdf)]
 
 ## Role Learning
 * RODE: Learning Roles to Decompose Multi-Agent Tasks. ICLR 2021. [[paper](https://anuj-mahajan.github.io/files/rode.pdf)][[code](https://github.com/TonghanWang/RODE)][[talk](https://slideslive.com/38953613/)]
