@@ -39,6 +39,9 @@ Email: chrisyrniu@gmail.com
 * NerveNet: Learning Structured Policy with Graph Neural Networks. ICLR 2018. [[paper](https://openreview.net/pdf?id=S1sqHMZCb)][[code](https://github.com/WilsonWangTHU/NerveNet)][[website](http://www.cs.toronto.edu/~tingwuwang/nervenet.html)][[video](https://youtu.be/ImSlirW1EI8)]
 * One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control. ICML 2020. [[paper](https://www.cs.cmu.edu/~dpathak/papers/modular-rl.pdf)][[code](https://github.com/huangwl18/modular-rl)][[talk](https://youtu.be/gEeQ0nzalzo)][[website](https://wenlong.page/modular-rl/)]
 
+## Multi-Task and Meta-Learning
+* Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module. arXiv 2022. [[paper](https://arxiv.org/pdf/2112.07222.pdf)]
+
 ## Robotics
 * A framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies. ICRA 2022. [[paper](https://arxiv.org/pdf/2111.01777.pdf)][[code 1](https://github.com/proroklab/rl_multi_agent_passage)][[code 2](https://github.com/proroklab/ros2_multi_agent_passage)][[video](https://youtu.be/COh-WLn4iO4)]
 * Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards. RA-L, 2022. [[paper](https://arxiv.org/pdf/2203.10229.pdf)][[code](https://github.com/hanruihua/rl_rvo_nav)][[video](https://youtu.be/-8a8Vqm6epM)]
