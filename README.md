@@ -19,6 +19,7 @@ Email: chrisyrniu@gmail.com
 * Hierarchical Deep Multiagent Reinforcement Learning with Temporal Abstraction. arXiv 2019. [[paper](https://arxiv.org/pdf/1809.09332.pdf)]
 * [not MARL] Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation. NIPS 2016. [[paper](https://arxiv.org/pdf/1604.06057.pdf)][[code](https://github.com/mrkulk/hierarchical-deep-RL)][[talk](https://youtu.be/tyRUql_ZR7Q)]
 * Credit Assignment with Meta-Policy Gradient for Multi-Agent Reinforcement Learning. arXiv 2021. [[paper](https://arxiv.org/pdf/2102.12957.pdf)]
+* * Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module. arXiv 2022. [[paper](https://arxiv.org/pdf/2112.07222.pdf)]
 
 ## Role Learning
 * RODE: Learning Roles to Decompose Multi-Agent Tasks. ICLR 2021. [[paper](https://anuj-mahajan.github.io/files/rode.pdf)][[code](https://github.com/TonghanWang/RODE)][[talk](https://slideslive.com/38953613/)]
