@@ -39,6 +39,7 @@ Email: chrisyrniu@gmail.com
 ## Multi-Task and Transfer Learning
 * NerveNet: Learning Structured Policy with Graph Neural Networks. ICLR 2018. [[paper](https://openreview.net/pdf?id=S1sqHMZCb)][[code](https://github.com/WilsonWangTHU/NerveNet)][[website](http://www.cs.toronto.edu/~tingwuwang/nervenet.html)][[video](https://youtu.be/ImSlirW1EI8)]
 * One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control. ICML 2020. [[paper](https://www.cs.cmu.edu/~dpathak/papers/modular-rl.pdf)][[code](https://github.com/huangwl18/modular-rl)][[talk](https://youtu.be/gEeQ0nzalzo)][[website](https://wenlong.page/modular-rl/)]
+* Snowflake: Scaling GNNs to High-DimensionalContinuous Control via Parameter Freezing. NeurIPS 2021. [[paper](https://arxiv.org/pdf/2103.01009.pdf)][[talk](https://slideslive.com/38967721)]
 
 ## Multi-Task and Meta-Learning
 * Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module. arXiv 2022. [[paper](https://arxiv.org/pdf/2112.07222.pdf)]
