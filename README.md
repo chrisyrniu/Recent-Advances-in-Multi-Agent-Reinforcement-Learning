@@ -6,6 +6,7 @@ Maintainer: [Yaru Niu](https://chrisyrniu.github.io/)
 Email: chrisyrniu@gmail.com
 
 ## Hierarchical MARL
+* ALMA: Hierarchical Learning for Composite Multi-Agent Tasks. NeurIPS 2022. [[paper](https://openreview.net/pdf?id=JUXn1vXcrLA)].
 * Promoting Coordination through Policy Regularization in Multi-Agent Deep Reinforcement Learning. NeurIPS 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/b628386c9b92481fab68fbf284bd6a64-Paper.pdf)][[talk](https://slideslive.com/38936234/)][[website](https://sites.google.com/view/marl-coordination/)]
 * RODE: Learning Roles to Decompose Multi-Agent Tasks. ICLR 2021. [[paper](https://anuj-mahajan.github.io/files/rode.pdf)][[code](https://github.com/TonghanWang/RODE)][[talk](https://slideslive.com/38953613/)]
 * OPtions as REsponses: Grounding Behavioural Hierarchies in Multi-Agent Reinforcement Learning. ICML 2020. [[paper](https://arxiv.org/pdf/1906.01470.pdf)][[talk](https://slideslive.com/38927700)]
