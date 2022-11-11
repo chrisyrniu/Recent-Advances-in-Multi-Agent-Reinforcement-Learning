@@ -1,5 +1,5 @@
 # Recent Advances in Multi-Agent Reinforcement Learning (MARL)
-This is a collection of recent MARL papers with their codes and talks (if available). The collection will be actively updated in the next few months. Some highly-revelant single-agent RL papers might be also included.
+This is a collection of recent MARL papers with their codes and talks (if available). The collection will be actively updated in the next few months. Some highly-revelant but earlier or single-agent RL papers might be also included.
 
 Maintainer: [Yaru Niu](https://chrisyrniu.github.io/)
 
@@ -30,6 +30,8 @@ Email: chrisyrniu@gmail.com
 * Multi-Agent Graph-Attention Communication and Teaming. AAMAS 2021 (Best Paper Award at [MAIR2@ICCV'21](https://www.mair2.com/accepted-papers)). [[paper](https://chrisyrniu.github.io/files/aamas_2021_with_sup.pdf)][[paper (MAIR2)](https://chrisyrniu.github.io/files/magic_mair2_final.pdf)][[code](https://github.com/CORE-Robotics-Lab/MAGIC)][[talk](https://slideslive.com/38954819)][[talk (MAIR2)](https://youtu.be/g9sQyOjjoFY)]
 * TarMAC: Targeted Multi-Agent Communication. ICML 2019. [[paper](https://arxiv.org/pdf/1810.11187.pdf)][[talk](https://slideslive.com/38917625)]
 * Learning to Schedule Communication in Multi-agent Reinforcement Learning. ICLR 2019. [[paper](https://arxiv.org/pdf/1902.01554.pdf)][[code](https://github.com/rhoowd/sched_net)]
+* Learning Multiagent Communication with Backpropagation. NIPS 2016. [[paper](https://arxiv.org/pdf/1605.07736.pdf)]
+* Learning Efficient Multi-agent Communication: An Information Bottleneck Approach. ICML 2020. [[paper](http://proceedings.mlr.press/v119/wang20i/wang20i.pdf)][[code](https://github.com/EC2EZ4RD/IMAC)][[talk](https://icml.cc/virtual/2020/poster/5864)]
 
 ## Ad-Hoc Teaming
 * Coach-Player Multi-Agent Reinforcement Learning for Dynamic Team Composition. ICML 2021. [[paper](https://arxiv.org/pdf/2105.08692.pdf)][[code](https://github.com/Cranial-XIX/marl-copa)][[talk](https://slideslive.com/38958626)]
@@ -44,6 +46,7 @@ Email: chrisyrniu@gmail.com
 
 ## Multi-Task and Meta-Learning
 * Meta-CPR: Generalize to Unseen Large Number of Agents with Communication Pattern Recognition Module. arXiv 2022. [[paper](https://arxiv.org/pdf/2112.07222.pdf)]
+* Adaptable and Scalable Multi-Agent Graph-Attention Communication. Georgia Tech MS Thesis. [[paper](https://smartech.gatech.edu/bitstream/handle/1853/66659/NIU-THESIS-2022.pdf)]
 
 ## Interpretability
 * Beyond Rewards: a Hierarchical Perspective on Offline Multiagent Behavioral Analysis. arXiv 2022. [[paper](https://arxiv.org/pdf/2206.09046.pdf)]
