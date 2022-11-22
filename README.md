@@ -55,3 +55,14 @@ Email: chrisyrniu@gmail.com
 ## Robotics
 * A framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies. ICRA 2022. [[paper](https://arxiv.org/pdf/2111.01777.pdf)][[code 1](https://github.com/proroklab/rl_multi_agent_passage)][[code 2](https://github.com/proroklab/ros2_multi_agent_passage)][[video](https://youtu.be/COh-WLn4iO4)]
 * Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards. RA-L, 2022. [[paper](https://arxiv.org/pdf/2203.10229.pdf)][[code](https://github.com/hanruihua/rl_rvo_nav)][[video](https://youtu.be/-8a8Vqm6epM)]
+
+## Safety
+* Multi-Agent Constrained Policy Optimisation. arXiv 2022. [[paper](https://arxiv.org/pdf/2110.02793.pdf)][[code](https://arxiv.org/pdf/2110.02793.pdf)]
+* Safe Multi-Agent Isaac Gym Benchmark (Safe MAIG). [[code](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)]
+
+## Benchmarks
+* Python MARL framework. [[code](https://github.com/oxwhirl/pymarl)]
+* The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games. NeurIPS 2022 (Track on Datasets and Benchmarks). [[paper](https://arxiv.org/pdf/2103.01955.pdf)][[code (on-policy)](https://github.com/marlbenchmark/on-policy)][[code (off-policy)](https://github.com/marlbenchmark/off-policy)]
+* MARLlib: Extending RLlib for Multi-agent Reinforcement Learning. arXiv 2022. [[paper](https://arxiv.org/pdf/2210.13708.pdf)][[code](https://github.com/Replicable-MARL/MARLlib)][[website](https://sites.google.com/view/marllib)]
+* Multi-Agent Constrained Policy Optimisation. arXiv 2022. [[paper](https://arxiv.org/pdf/2110.02793.pdf)][[code](https://arxiv.org/pdf/2110.02793.pdf)]
+* Safe Multi-Agent Isaac Gym Benchmark (Safe MAIG). [[code](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)]
