@@ -63,6 +63,7 @@ Email: chrisyrniu@gmail.com
 ## Benchmarks
 * Python MARL framework. [[code](https://github.com/oxwhirl/pymarl)]
 * The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games. NeurIPS 2022 (Track on Datasets and Benchmarks). [[paper](https://arxiv.org/pdf/2103.01955.pdf)][[code (on-policy)](https://github.com/marlbenchmark/on-policy)][[code (off-policy)](https://github.com/marlbenchmark/off-policy)]
+* Trust Region Policy Optimisation in Multiagent Reinforcement Learning. ICLR 2022. [[paper](https://arxiv.org/pdf/2109.11251.pdf)][[code](https://github.com/cyanrain7/TRPO-in-MARL)][[talk](https://iclr.cc/virtual/2022/poster/6244)]
 * MARLlib: Extending RLlib for Multi-agent Reinforcement Learning. arXiv 2022. [[paper](https://arxiv.org/pdf/2210.13708.pdf)][[code](https://github.com/Replicable-MARL/MARLlib)][[website](https://sites.google.com/view/marllib)]
 * Multi-Agent Constrained Policy Optimisation. arXiv 2022. [[paper](https://arxiv.org/pdf/2110.02793.pdf)][[code](https://arxiv.org/pdf/2110.02793.pdf)]
 * Safe Multi-Agent Isaac Gym Benchmark (Safe MAIG). [[code](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)]
