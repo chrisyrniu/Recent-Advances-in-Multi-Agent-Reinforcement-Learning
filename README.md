@@ -68,3 +68,4 @@ Email: chrisyrniu@gmail.com
 * Multi-Agent Constrained Policy Optimisation. arXiv 2022. [[paper](https://arxiv.org/pdf/2110.02793.pdf)][[code](https://arxiv.org/pdf/2110.02793.pdf)]
 * MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control. NeurIPS 2022 (Track on Datasets and Benchmarks). [[paper](https://openreview.net/pdf?id=SyoUVEyzJbE)][[code](https://github.com/UnrealTracking/mate)][[webpage](https://mate-gym.readthedocs.io/en/latest/)]
 * Safe Multi-Agent Isaac Gym Benchmark (Safe MAIG). [[code](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)]
+* Settling the Variance of Multi-Agent Policy Gradients. NeurIPS 2021. [[paper](https://arxiv.org/pdf/2108.08612.pdf)][[code](https://github.com/morning9393/Optimal-Baseline-for-Multi-agent-Policy-Gradients)]
