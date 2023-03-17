@@ -44,7 +44,7 @@ Email: chrisyrniu@gmail.com
 ## Multi-Task and Transfer Learning
 * NerveNet: Learning Structured Policy with Graph Neural Networks. ICLR 2018. [[paper](https://openreview.net/pdf?id=S1sqHMZCb)][[code](https://github.com/WilsonWangTHU/NerveNet)][[website](http://www.cs.toronto.edu/~tingwuwang/nervenet.html)][[video](https://youtu.be/ImSlirW1EI8)]
 * One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control. ICML 2020. [[paper](https://www.cs.cmu.edu/~dpathak/papers/modular-rl.pdf)][[code](https://github.com/huangwl18/modular-rl)][[talk](https://youtu.be/gEeQ0nzalzo)][[website](https://wenlong.page/modular-rl/)]
-* Snowflake: Scaling GNNs to High-DimensionalContinuous Control via Parameter Freezing. NeurIPS 2021. [[paper](https://arxiv.org/pdf/2103.01009.pdf)][[talk](https://slideslive.com/38967721)]
+* Snowflake: Scaling GNNs to High-Dimensional Continuous Control via Parameter Freezing. NeurIPS 2021. [[paper](https://arxiv.org/pdf/2103.01009.pdf)][[talk](https://slideslive.com/38967721)]
 * Multi-Agent Reinforcement Learning is A Sequence Modeling Problem (Multi-Agent Transformer). NeurIPS 2022. [[paper](https://arxiv.org/pdf/2205.14953.pdf)][[code](https://github.com/PKU-MARL/Multi-Agent-Transformer)][[website](https://sites.google.com/view/multi-agent-transformer)]
 * Updet: Universal Multi-Agent Reinforcement Learning via Policy Decoupling with Transformers. ICLR 2021. [[paper](https://arxiv.org/pdf/2101.08001.pdf)][[code](https://github.com/Theohhhu/UPDeT)]
 
