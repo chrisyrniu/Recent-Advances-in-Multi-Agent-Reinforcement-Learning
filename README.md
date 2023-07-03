@@ -28,6 +28,7 @@ Email: chrisyrniu@gmail.com
 
 ## Communication-Based
 * Multi-Agent Graph-Attention Communication and Teaming. AAMAS 2021 (Best Paper Award at [MAIR2@ICCV'21](https://www.mair2.com/accepted-papers)). [[paper](https://yaruniu.com/assets/pdf/aamas_2021_with_sup.pdf)][[paper (MAIR2)](https://yaruniu.com/assets/pdf/magic_mair2.pdf)][[code](https://github.com/CORE-Robotics-Lab/MAGIC)][[talk](https://slideslive.com/38954819)][[talk (MAIR2)](https://youtu.be/g9sQyOjjoFY)]
+* Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning. AAMAS 2021. [[paper](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf)][[talk](https://underline.io/lecture/15351-learning-correlated-communication-topology-in-multi-agent-reinforcement-learning)]
 * TarMAC: Targeted Multi-Agent Communication. ICML 2019. [[paper](https://arxiv.org/pdf/1810.11187.pdf)][[talk](https://slideslive.com/38917625)]
 * Learning to Schedule Communication in Multi-agent Reinforcement Learning. ICLR 2019. [[paper](https://arxiv.org/pdf/1902.01554.pdf)][[code](https://github.com/rhoowd/sched_net)]
 * Learning Multiagent Communication with Backpropagation. NIPS 2016. [[paper](https://arxiv.org/pdf/1605.07736.pdf)]
