@@ -37,6 +37,7 @@ Email: chrisyrniu@gmail.com
 * Multi-Agent Incentive Communication via Decentralized Teammate Modeling. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21179)][[code](https://github.com/mansicer/MAIC)]
 * Self-Organized Group for Cooperative Multi-agent Reinforcement Learning. NeurIPS 2022. [[paper](https://openreview.net/pdf?id=hd5KRowT3oB)][[supplementary](https://openreview.net/attachment?id=hd5KRowT3oB&name=supplementary_material)]
 * Complementary Attention for Multi-Agent Reinforcement Learning. ICML 2023. [[paper](https://openreview.net/pdf?id=qEcJpq2Kjr)][[code](https://github.com/qyz55/CAMA)]
+* Towards True Lossless Sparse Communication in Multi-Agent Systems. ICRA 2023. [[paper](https://arxiv.org/abs/2212.00115)][[talk](https://slideslive.com/38994831/towards-true-lossless-sparse-communication-in-multiagent-systems)]
 
 ## Ad-Hoc Teaming
 * Coach-Player Multi-Agent Reinforcement Learning for Dynamic Team Composition. ICML 2021. [[paper](https://arxiv.org/pdf/2105.08692.pdf)][[code](https://github.com/Cranial-XIX/marl-copa)][[talk](https://slideslive.com/38958626)]
