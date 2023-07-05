@@ -34,6 +34,7 @@ Email: chrisyrniu@gmail.com
 * Learning Multiagent Communication with Backpropagation. NIPS 2016. [[paper](https://arxiv.org/pdf/1605.07736.pdf)]
 * Learning Efficient Multi-agent Communication: An Information Bottleneck Approach. ICML 2020. [[paper](http://proceedings.mlr.press/v119/wang20i/wang20i.pdf)][[code](https://github.com/EC2EZ4RD/IMAC)][[talk](https://icml.cc/virtual/2020/poster/5864)]
 * Asynchronous Multi-Agent Reinforcement Learning for Efficient Real-Time Multi-Robot Cooperative Exploration. AAMAS 2023. [[paper](https://arxiv.org/pdf/2301.03398.pdf)]
+* Multi-Agent Incentive Communication via Decentralized Teammate Modeling. AAAI 2022. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/21179)][[code](https://github.com/mansicer/MAIC)]
 * Self-Organized Group for Cooperative Multi-agent Reinforcement Learning. NeurIPS 2022. [[paper](https://openreview.net/pdf?id=hd5KRowT3oB)][[supplementary](https://openreview.net/attachment?id=hd5KRowT3oB&name=supplementary_material)]
 * Complementary Attention for Multi-Agent Reinforcement Learning. ICML 2023. [[paper](https://openreview.net/pdf?id=qEcJpq2Kjr)][[code](https://github.com/qyz55/CAMA)]
 
