@@ -76,3 +76,6 @@ Email: chrisyrniu@gmail.com
 * MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control. NeurIPS 2022 (Track on Datasets and Benchmarks). [[paper](https://openreview.net/pdf?id=SyoUVEyzJbE)][[code](https://github.com/UnrealTracking/mate)][[webpage](https://mate-gym.readthedocs.io/en/latest/)]
 * Safe Multi-Agent Isaac Gym Benchmark (Safe MAIG). [[code](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)]
 * Settling the Variance of Multi-Agent Policy Gradients. NeurIPS 2021. [[paper](https://arxiv.org/pdf/2108.08612.pdf)][[code](https://github.com/morning9393/Optimal-Baseline-for-Multi-agent-Policy-Gradients)]
+* Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning. NeurIPS 2022. [[paper](https://arxiv.org/pdf/2206.08686.pdf)][[code](https://github.com/PKU-MARL/DexterousHands)]
+* Heterogeneous-Agent Reinforcement Learning. [[code](https://github.com/PKU-MARL/HARL)]
+* MALib: A Parallel Framework for Population-based Multi-agent Reinforcement Learning. JMLR 2023. [[paper](https://www.jmlr.org/papers/volume24/22-0169/22-0169.pdf)][[code](https://github.com/sjtu-marl/malib)]
