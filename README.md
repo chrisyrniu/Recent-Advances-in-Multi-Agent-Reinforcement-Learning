@@ -71,7 +71,9 @@ Email: chrisyrniu@gmail.com
 * Safe Multi-Agent Isaac Gym Benchmark (Safe MAIG). [[code](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)]
 
 ## Benchmarks
-* Python MARL framework. [[code](https://github.com/oxwhirl/pymarl)]
+* Python MARL (PyMARL) framework. [[code](https://github.com/oxwhirl/pymarl)]
+* Rethinking the Implementation Tricks and Monotonicity Constraint in Cooperative Multi-Agent Reinforcement Learning (PyMARL2). arXiv 2023. [[paper](https://arxiv.org/abs/2102.03479)][[code](https://github.com/hijkzzz/pymarl2)]
+* EPyMARL (an extension of PyMARL). [[code](https://github.com/uoe-agents/epymarl)]
 * The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games. NeurIPS 2022 (Track on Datasets and Benchmarks). [[paper](https://arxiv.org/pdf/2103.01955.pdf)][[code (on-policy)](https://github.com/marlbenchmark/on-policy)][[code (off-policy)](https://github.com/marlbenchmark/off-policy)]
 * Trust Region Policy Optimisation in Multiagent Reinforcement Learning. ICLR 2022. [[paper](https://arxiv.org/pdf/2109.11251.pdf)][[code](https://github.com/cyanrain7/TRPO-in-MARL)][[talk](https://iclr.cc/virtual/2022/poster/6244)]
 * MARLlib: Extending RLlib for Multi-agent Reinforcement Learning. arXiv 2022. [[paper](https://arxiv.org/pdf/2210.13708.pdf)][[code](https://github.com/Replicable-MARL/MARLlib)][[website](https://sites.google.com/view/marllib)]
