@@ -70,6 +70,10 @@ Email: chrisyrniu@gmail.com
 * Multi-Agent Constrained Policy Optimisation. arXiv 2022. [[paper](https://arxiv.org/pdf/2110.02793.pdf)][[code](https://arxiv.org/pdf/2110.02793.pdf)]
 * Safe Multi-Agent Isaac Gym Benchmark (Safe MAIG). [[code](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)]
 
+## Survey
+* An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective. arXiv 2021. [[paper](https://arxiv.org/pdf/2011.00583.pdf)]
+* Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms. arXiv 2021. [[paper](https://arxiv.org/pdf/1911.10635.pdf)]
+
 ## Benchmarks
 * Python MARL (PyMARL) framework. [[code](https://github.com/oxwhirl/pymarl)]
 * Rethinking the Implementation Tricks and Monotonicity Constraint in Cooperative Multi-Agent Reinforcement Learning (PyMARL2). arXiv 2023. [[paper](https://arxiv.org/abs/2102.03479)][[code](https://github.com/hijkzzz/pymarl2)]
