@@ -61,6 +61,7 @@ Email: chrisyrniu@gmail.com
 
 ## Interpretability
 * Beyond Rewards: a Hierarchical Perspective on Offline Multiagent Behavioral Analysis. arXiv 2022. [[paper](https://arxiv.org/pdf/2206.09046.pdf)]
+* MAVIPER: Learning Decision Tree Policies for Interpretable Multi-agent Reinforcement Learning. ECML-PKDD 2022. [[paper](https://arxiv.org/pdf/2205.12449.pdf)]
 
 ## Robotics
 * A framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies. ICRA 2022. [[paper](https://arxiv.org/pdf/2111.01777.pdf)][[code 1](https://github.com/proroklab/rl_multi_agent_passage)][[code 2](https://github.com/proroklab/ros2_multi_agent_passage)][[video](https://youtu.be/COh-WLn4iO4)]
@@ -73,13 +74,15 @@ Email: chrisyrniu@gmail.com
 ## Survey
 * An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective. arXiv 2021. [[paper](https://arxiv.org/pdf/2011.00583.pdf)]
 * Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms. arXiv 2021. [[paper](https://arxiv.org/pdf/1911.10635.pdf)]
+* Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges. arXiv 2023. [[paper](Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges)]
 
 ## Benchmarks
 * JaxMARL: Multi-Agent RL Environments in JAX. arXiv 2023. [[papaer](https://arxiv.org/pdf/2311.10090.pdf)][[code](https://github.com/flairox/jaxmarl)][[blog](https://blog.foersterlab.com/jaxmarl/)]
 * Python MARL (PyMARL) framework. [[code](https://github.com/oxwhirl/pymarl)]
 * Rethinking the Implementation Tricks and Monotonicity Constraint in Cooperative Multi-Agent Reinforcement Learning (PyMARL2). arXiv 2023. [[paper](https://arxiv.org/abs/2102.03479)][[code](https://github.com/hijkzzz/pymarl2)]
-* EPyMARL (an extension of PyMARL). [[code](https://github.com/uoe-agents/epymarl)]
-* The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games. NeurIPS 2022 (Track on Datasets and Benchmarks). [[paper](https://arxiv.org/pdf/2103.01955.pdf)][[code (on-policy)](https://github.com/marlbenchmark/on-policy)][[code (off-policy)](https://github.com/marlbenchmark/off-policy)]
+* Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms in Cooperative Tasks (EPyMARL). NeurIPS 2021 (Track on Datasets and Benchmarks). [[paper](https://arxiv.org/pdf/2006.07869.pdf)][[code](https://github.com/uoe-agents/epymarl)][[talk](https://slideslive.com/38969429/benchmarking-multiagent-deep-reinforcement-learning-algorithms-in-cooperative-tasks?ref=search-presentations-Benchmarking+Multi-Agent+Reinforcement+Learning)][[blog](https://agents.inf.ed.ac.uk/blog/epymarl/)]
+* TransfQMix: Transformers for Leveraging the Graph Structure of Multi-Agent Reinforcement Learning Problems (PyMARL Transformers). AAMAS 2023. [[paper](https://arxiv.org/ftp/arxiv/papers/2301/2301.05334.pdf)][[code](https://github.com/mttga/pymarl_transformers)]
+* The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games. NeurIPS 2022 (Track on Datasets and Benchmarks). [[paper](https://arxiv.org/pdf/2103.01955.pdf)][[code (on-policy)](https://github.com/marlbenchmark/on-policy)][[code (off-policy)](https://github.com/marlbenchmark/off-policy)][[talk](https://slideslive.com/38992630/the-surprising-effectiveness-of-ppo-in-cooperative-multiagent-games?ref=search-presentations-The+Surprising+Effectiveness+of+PPO+in+Cooperative+Multi-Agent+Games)]
 * Trust Region Policy Optimisation in Multiagent Reinforcement Learning. ICLR 2022. [[paper](https://arxiv.org/pdf/2109.11251.pdf)][[code](https://github.com/cyanrain7/TRPO-in-MARL)][[talk](https://iclr.cc/virtual/2022/poster/6244)]
 * MARLlib: Extending RLlib for Multi-agent Reinforcement Learning. arXiv 2022. [[paper](https://arxiv.org/pdf/2210.13708.pdf)][[code](https://github.com/Replicable-MARL/MARLlib)][[website](https://sites.google.com/view/marllib)]
 * Multi-Agent Constrained Policy Optimisation. arXiv 2022. [[paper](https://arxiv.org/pdf/2110.02793.pdf)][[code](https://github.com/chauncygu/Multi-Agent-Constrained-Policy-Optimisation)]
