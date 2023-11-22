@@ -75,6 +75,7 @@ Email: chrisyrniu@gmail.com
 * Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms. arXiv 2021. [[paper](https://arxiv.org/pdf/1911.10635.pdf)]
 
 ## Benchmarks
+* JaxMARL: Multi-Agent RL Environments in JAX. arXiv 2023. [[papaer](https://arxiv.org/pdf/2311.10090.pdf)][[code](https://github.com/flairox/jaxmarl)][[blog](https://blog.foersterlab.com/jaxmarl/)]
 * Python MARL (PyMARL) framework. [[code](https://github.com/oxwhirl/pymarl)]
 * Rethinking the Implementation Tricks and Monotonicity Constraint in Cooperative Multi-Agent Reinforcement Learning (PyMARL2). arXiv 2023. [[paper](https://arxiv.org/abs/2102.03479)][[code](https://github.com/hijkzzz/pymarl2)]
 * EPyMARL (an extension of PyMARL). [[code](https://github.com/uoe-agents/epymarl)]
@@ -88,3 +89,5 @@ Email: chrisyrniu@gmail.com
 * Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning. NeurIPS 2022. [[paper](https://arxiv.org/pdf/2206.08686.pdf)][[code](https://github.com/PKU-MARL/DexterousHands)]
 * Heterogeneous-Agent Reinforcement Learning. [[code](https://github.com/PKU-MARL/HARL)]
 * MALib: A Parallel Framework for Population-based Multi-agent Reinforcement Learning. JMLR 2023. [[paper](https://www.jmlr.org/papers/volume24/22-0169/22-0169.pdf)][[code](https://github.com/sjtu-marl/malib)]
+* Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world. NeurIPS 2022 (Track on Datasets and Benchmarks). [[paper](https://arxiv.org/pdf/2206.09889.pdf)][[code](https://github.com/facebookresearch/nocturne)][[website](https://www.nathanlct.com/research/nocturne)][[talk](https://slideslive.com/38992553/nocturne-a-scalable-driving-benchmark-for-bringing-multiagent-learning-one-step-closer-to-the-real-world?ref=search-presentations-Nocturne)]
+* ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling. arXiv 2023. [[paper](https://arxiv.org/pdf/2306.12241.pdf)][[code](https://github.com/metadriverse/scenarionet)][[website](https://metadriverse.github.io/scenarionet/)]
