@@ -1,5 +1,5 @@
 # Recent Advances in Multi-Agent Reinforcement Learning (MARL)
-This is a collection of recent MARL papers with their codes and talks (if available). Some highly-revelant but earlier or single-agent RL papers might be also included.
+This is a collection of recent MARL papers with their codes and talks (if available). Some highly-revelant (single-agent RL, multi-agent perception) papers might be also included.
 
 Maintainer: [Yaru Niu](https://chrisyrniu.github.io/)
 
@@ -38,6 +38,7 @@ Email: chrisyrniu@gmail.com
 * Self-Organized Group for Cooperative Multi-agent Reinforcement Learning. NeurIPS 2022. [[paper](https://openreview.net/pdf?id=hd5KRowT3oB)][[supplementary](https://openreview.net/attachment?id=hd5KRowT3oB&name=supplementary_material)]
 * Complementary Attention for Multi-Agent Reinforcement Learning. ICML 2023. [[paper](https://openreview.net/pdf?id=qEcJpq2Kjr)][[code](https://github.com/qyz55/CAMA)]
 * Towards True Lossless Sparse Communication in Multi-Agent Systems. ICRA 2023. [[paper](https://arxiv.org/abs/2212.00115)][[talk](https://slideslive.com/38994831/towards-true-lossless-sparse-communication-in-multiagent-systems)]
+* Learning Multi-Agent Communication from Graph Modeling Perspective. ICLR 2024. [[paper](https://openreview.net/attachment?id=Qox9rO0kN0&name=pdf)][[code](https://github.com/charleshsc/CommFormer)]
 
 ## General Cooperative MARL
 * Revisiting Some Common Practices in Cooperative Multi-Agent Reinforcement Learning. ICML 2022. [[paper](https://arxiv.org/pdf/2206.07505.pdf)][[website](https://sites.google.com/view/revisiting-marl)]
@@ -70,6 +71,10 @@ Email: chrisyrniu@gmail.com
 ## Safety
 * Multi-Agent Constrained Policy Optimisation. arXiv 2022. [[paper](https://arxiv.org/pdf/2110.02793.pdf)][[code](https://arxiv.org/pdf/2110.02793.pdf)]
 * Safe Multi-Agent Isaac Gym Benchmark (Safe MAIG). [[code](https://github.com/chauncygu/Safe-Multi-Agent-Isaac-Gym)]
+
+## Multi-Agent Perception
+* DiscoNet: Learning Distilled Collaboration Graph for Multi-Agent Perception. NeurIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/f702defbc67edb455949f46babab0c18-Paper.pdf)][[code](https://github.com/ai4ce/DiscoNet)]
+* Coopernaut: End-to-End Driving with Cooperative Perception for Networked Vehicles. CVPR 2022. [[paper](https://arxiv.org/pdf/2205.02222)][[code](https://github.com/UT-Austin-RPL/Coopernaut)][[website](https://ut-austin-rpl.github.io/Coopernaut/)]
 
 ## Survey
 * An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective. arXiv 2021. [[paper](https://arxiv.org/pdf/2011.00583.pdf)]
