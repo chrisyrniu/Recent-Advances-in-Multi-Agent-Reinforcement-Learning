@@ -75,11 +75,18 @@ Email: chrisyrniu@gmail.com
 ## Multi-Agent Perception
 * DiscoNet: Learning Distilled Collaboration Graph for Multi-Agent Perception. NeurIPS 2021. [[paper](https://proceedings.neurips.cc/paper/2021/file/f702defbc67edb455949f46babab0c18-Paper.pdf)][[code](https://github.com/ai4ce/DiscoNet)]
 * Coopernaut: End-to-End Driving with Cooperative Perception for Networked Vehicles. CVPR 2022. [[paper](https://arxiv.org/pdf/2205.02222)][[code](https://github.com/UT-Austin-RPL/Coopernaut)][[website](https://ut-austin-rpl.github.io/Coopernaut/)]
+* V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction. ECCV 2020. [[paper](https://arxiv.org/pdf/2008.07519)][[code](https://github.com/coperception/coperception)]
+* OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication. ICRA 2022. [[paper](https://arxiv.org/pdf/2109.07644)][[code](https://github.com/DerrickXuNu/OpenCOOD)][[website](https://mobility-lab.seas.ucla.edu/opv2v/)]
+* When2com: Multi-Agent Perception via Communication Graph Grouping. CVPR 2020. [[paper](https://arxiv.org/pdf/2006.00176)][[code](https://github.com/GT-RIPL/MultiAgentPerception)][[website](https://github.com/GT-RIPL/MultiAgentPerception)]
+* Who2com: Collaborative Perception via Learnable Handshake Communication. ICRA 2020. [[paper](https://arxiv.org/pdf/2003.09575)][[website](https://ycliu93.github.io/projects/multi-agent-perception.html)]
+* V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer. ECCV 2022. [[paper](https://arxiv.org/pdf/2203.10638)][[code](https://github.com/DerrickXuNu/v2x-vit)]
+* V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving. RA-L 2022. [[paper](https://arxiv.org/pdf/2202.08449)][[code](https://github.com/ai4ce/V2X-Sim)][[website](https://ai4ce.github.io/V2X-Sim/)]
+* Collaborative Multi-Object Tracking With Conformal Uncertainty Propagation. RA-L 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10430224)][[website](https://coperception.github.io/MOT-CUP/)]
 
 ## Survey
 * An Overview of Multi-Agent Reinforcement Learning from Game Theoretical Perspective. arXiv 2021. [[paper](https://arxiv.org/pdf/2011.00583.pdf)]
 * Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms. arXiv 2021. [[paper](https://arxiv.org/pdf/1911.10635.pdf)]
-* Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges. arXiv 2023. [[paper](Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges)]
+* Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges. arXiv 2023. [[paper](https://arxiv.org/pdf/2305.10091)]
 
 ## Benchmarks
 * JaxMARL: Multi-Agent RL Environments in JAX. arXiv 2023. [[papaer](https://arxiv.org/pdf/2311.10090.pdf)][[code](https://github.com/flairox/jaxmarl)][[blog](https://blog.foersterlab.com/jaxmarl/)]
