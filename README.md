@@ -1,6 +1,8 @@
 # Recent Advances in Multi-Agent Reinforcement Learning (MARL) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 This is a collection of recent MARL papers with their codes and talks (if available). Some highly-revelant (single-agent RL, multi-agent perception) papers might be also included.
 
+To include your papers, please submit a new issue and enclose the information of your paper (citation, website, codebase, etc.). Thank you.
+
 Maintainer: [Yaru Niu](https://chrisyrniu.github.io/)
 
 Email: chrisyrniu@gmail.com
