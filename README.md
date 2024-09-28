@@ -29,6 +29,7 @@ Email: chrisyrniu@gmail.com
 * ROMA: Multi-Agent Reinforcement Learning with Emergent Roles. ICML 2020. [[paper](https://arxiv.org/pdf/2003.08039.pdf)][[code](https://github.com/TonghanWang/ROMA)][[talk](https://slideslive.com/38927654)][[website](https://sites.google.com/view/romarl/)]
 
 ## Communication-Based
+* Model-based Multi-agent Policy Optimization with Adaptive Opponent-wise Rollouts. IJCAI 2021. [[paper](https://arxiv.org/pdf/2105.03363.pdf)][[code](https://github.com/xihuai18/AORPO)]
 * Multi-Agent Graph-Attention Communication and Teaming. AAMAS 2021 (Best Paper Award at [MAIR2@ICCV'21](https://www.mair2.com/accepted-papers)). [[paper](https://yaruniu.com/assets/pdf/aamas_2021_with_sup.pdf)][[paper (MAIR2)](https://yaruniu.com/assets/pdf/magic_mair2.pdf)][[code](https://github.com/CORE-Robotics-Lab/MAGIC)][[talk](https://slideslive.com/38954819)][[talk (MAIR2)](https://youtu.be/g9sQyOjjoFY)]
 * Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning. AAMAS 2021. [[paper](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf)][[talk](https://underline.io/lecture/15351-learning-correlated-communication-topology-in-multi-agent-reinforcement-learning)]
 * TarMAC: Targeted Multi-Agent Communication. ICML 2019. [[paper](https://arxiv.org/pdf/1810.11187.pdf)][[talk](https://slideslive.com/38917625)]
