@@ -29,6 +29,7 @@ Email: chrisyrniu@gmail.com
 * ROMA: Multi-Agent Reinforcement Learning with Emergent Roles. ICML 2020. [[paper](https://arxiv.org/pdf/2003.08039.pdf)][[code](https://github.com/TonghanWang/ROMA)][[talk](https://slideslive.com/38927654)][[website](https://sites.google.com/view/romarl/)]
 
 ## Communication-Based
+* Model-based Multi-agent Policy Optimization with Adaptive Opponent-wise Rollouts. IJCAI 2021. [[paper](https://arxiv.org/pdf/2105.03363.pdf)][[code](https://github.com/xihuai18/AORPO)]
 * Multi-Agent Graph-Attention Communication and Teaming. AAMAS 2021 (Best Paper Award at [MAIR2@ICCV'21](https://www.mair2.com/accepted-papers)). [[paper](https://yaruniu.com/assets/pdf/aamas_2021_with_sup.pdf)][[paper (MAIR2)](https://yaruniu.com/assets/pdf/magic_mair2.pdf)][[code](https://github.com/CORE-Robotics-Lab/MAGIC)][[talk](https://slideslive.com/38954819)][[talk (MAIR2)](https://youtu.be/g9sQyOjjoFY)]
 * Learning Correlated Communication Topology in Multi-Agent Reinforcement Learning. AAMAS 2021. [[paper](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf)][[talk](https://underline.io/lecture/15351-learning-correlated-communication-topology-in-multi-agent-reinforcement-learning)]
 * TarMAC: Targeted Multi-Agent Communication. ICML 2019. [[paper](https://arxiv.org/pdf/1810.11187.pdf)][[talk](https://slideslive.com/38917625)]
@@ -43,6 +44,7 @@ Email: chrisyrniu@gmail.com
 * Learning Multi-Agent Communication from Graph Modeling Perspective. ICLR 2024. [[paper](https://openreview.net/attachment?id=Qox9rO0kN0&name=pdf)][[code](https://github.com/charleshsc/CommFormer)]
 
 ## General Cooperative MARL
+* Order Matters: Agent-by-agent Policy Optimization. ICLR 2023. [[paper](https://arxiv.org/pdf/2302.06205.pdf)][[code](https://github.com/xihuai18/A2PO-ICLR2023)][[中文blog](https://zhuanlan.zhihu.com/p/606552274)][[talk](https://www.bilibili.com/video/BV15V41137pA/?t=49.294773)]
 * Revisiting Some Common Practices in Cooperative Multi-Agent Reinforcement Learning. ICML 2022. [[paper](https://arxiv.org/pdf/2206.07505.pdf)][[website](https://sites.google.com/view/revisiting-marl)]
 
 ## Ad-Hoc Teaming
@@ -97,6 +99,7 @@ Email: chrisyrniu@gmail.com
 * Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges. arXiv 2023. [[paper](https://arxiv.org/pdf/2305.10091)]
 
 ## Benchmarks
+* ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination. NeurIPS 2024 (Track on Datasets and Benchmarks). [[paper](https://arxiv.org/pdf/2310.05208)][[code](https://github.com/sjtu-marl/zsc-eval)].
 * JaxMARL: Multi-Agent RL Environments in JAX. arXiv 2023. [[papaer](https://arxiv.org/pdf/2311.10090.pdf)][[code](https://github.com/flairox/jaxmarl)][[blog](https://blog.foersterlab.com/jaxmarl/)]
 * Python MARL (PyMARL) framework. [[code](https://github.com/oxwhirl/pymarl)]
 * Rethinking the Implementation Tricks and Monotonicity Constraint in Cooperative Multi-Agent Reinforcement Learning (PyMARL2). arXiv 2023. [[paper](https://arxiv.org/abs/2102.03479)][[code](https://github.com/hijkzzz/pymarl2)]
