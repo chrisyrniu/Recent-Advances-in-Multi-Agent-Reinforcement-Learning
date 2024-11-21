@@ -67,10 +67,14 @@ Email: chrisyrniu@gmail.com
 * MAVIPER: Learning Decision Tree Policies for Interpretable Multi-agent Reinforcement Learning. ECML-PKDD 2022. [[paper](https://arxiv.org/pdf/2205.12449.pdf)]
 
 ## Robotics
+* Multi-Agent Manipulation via Locomotion using Hierarchical Sim2Real. CoRL 2018. [[paper](https://arxiv.org/pdf/1908.05224)][[website](https://sites.google.com/view/manipulation-via-locomotion)]
 * A framework for Real-World Multi-Robot Systems Running Decentralized GNN-Based Policies. ICRA 2022. [[paper](https://arxiv.org/pdf/2111.01777.pdf)][[code 1](https://github.com/proroklab/rl_multi_agent_passage)][[code 2](https://github.com/proroklab/ros2_multi_agent_passage)][[video](https://youtu.be/COh-WLn4iO4)]
 * Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards. RA-L, 2022. [[paper](https://arxiv.org/pdf/2203.10229.pdf)][[code](https://github.com/hanruihua/rl_rvo_nav)][[video](https://youtu.be/-8a8Vqm6epM)]
 * Solving Multi-Entity Robotic Problems Using Permutation Invariant Neural Networks. arXiv 2024. [[paper](https://arxiv.org/pdf/2402.18345)]
 * MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment. arXiv 2024. [[paper](https://arxiv.org/pdf/2403.16015)][[code](https://github.com/ziyanx02/multiagent-quadruped-environment)][[website](https://ziyanx02.github.io/multiagent-quadruped-environment/)]
+* COMPOSER: Scalable and Robust Modular Policies for Snake Robots. ICRA 2024. [[paper](https://arxiv.org/pdf/2310.00871)][[website](https://sites.google.com/view/composer-snake/)]
+* Learning Decentralized Multi-Biped Control for Payload Transport. CoRL 2024. [[paper](https://arxiv.org/pdf/2406.17279)][[website](https://decmbc.github.io/)][[code](https://github.com/osudrl/roadrunner/tree/paper/decmbc)]
+* Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing. arXiv 2024. [[paper](https://arxiv.org/pdf/2411.07104)][[website](https://collaborative-mapush.github.io/)][[code](https://github.com/collaborative-mapush/MAPush)]
 
 ## Safety
 * Multi-Agent Constrained Policy Optimisation. arXiv 2022. [[paper](https://arxiv.org/pdf/2110.02793.pdf)][[code](https://arxiv.org/pdf/2110.02793.pdf)]
